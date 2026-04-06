@@ -1,0 +1,4 @@
+2026-04-06: Legacy NHANES paths under https://wwwn.cdc.gov/nchs/nhanes/<cycle>/FILE.xpt returned HTTP 200 HTML "Page Not Found" bodies.
+Resolved by switching to CDC Public DataFiles layout:
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/<year>/DataFiles/<FILE>.xpt
+Verified HEAD 200 with content-type text/plain and multi-byte Content-Length for DR1TOT_J.xpt (2017).

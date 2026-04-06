@@ -1,0 +1,20 @@
+USDA FDC API failed: 'list' object has no attribute 'get'; using synthetic fallback from open nutrition.
+WHO fetch fail NUTRITION_HA_1: 404 Client Error: Not Found for url: https://ghoapi.azureedge.net/api/NUTRITION_HA_1
+WHO fetch fail NUTRITION_HA_2: 404 Client Error: Not Found for url: https://ghoapi.azureedge.net/api/NUTRITION_HA_2
+FAIL https://raw.githubusercontent.com/selva86/datasets/master/nutrition.csv -> C:\Users\HighTech\Desktop\advanced_research_portfolio\data\open_nutrition.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/selva86/datasets/master/nutrition.csv
+Open nutrition CSV failed; generating minimal synthetic public-style table.
+USDA FDC API failed: 'list' object has no attribute 'get'; using synthetic fallback from open nutrition.
+WHO fetch fail NUTRITION_HA_1: 404 Client Error: Not Found for url: https://ghoapi.azureedge.net/api/NUTRITION_HA_1
+WHO fetch fail NUTRITION_HA_2: 404 Client Error: Not Found for url: https://ghoapi.azureedge.net/api/NUTRITION_HA_2
+FAIL https://raw.githubusercontent.com/selva86/datasets/master/nutrition.csv -> C:\Users\HighTech\Desktop\advanced_research_portfolio\data\open_nutrition.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/selva86/datasets/master/nutrition.csv
+Open nutrition CSV failed; generating minimal synthetic public-style table.
+USDA FDC API failed: 'list' object has no attribute 'get'; using synthetic fallback from open nutrition.
+WHO fetch fail NUTRITION_HA_1: 404 Client Error: Not Found for url: https://ghoapi.azureedge.net/api/NUTRITION_HA_1
+WHO fetch fail NUTRITION_HA_2: 404 Client Error: Not Found for url: https://ghoapi.azureedge.net/api/NUTRITION_HA_2
+FAIL https://raw.githubusercontent.com/selva86/datasets/master/nutrition.csv -> C:\Users\HighTech\Desktop\advanced_research_portfolio\data\open_nutrition.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/selva86/datasets/master/nutrition.csv
+Open nutrition CSV failed; generating minimal synthetic public-style table.
+USDA FDC API failed: 'list' object has no attribute 'get'; using synthetic fallback from open nutrition.
+WHO fetch fail NUTRITION_HA_1: 404 Client Error: Not Found for url: https://ghoapi.azureedge.net/api/NUTRITION_HA_1
+WHO fetch fail NUTRITION_HA_2: 404 Client Error: Not Found for url: https://ghoapi.azureedge.net/api/NUTRITION_HA_2
+FAIL https://raw.githubusercontent.com/selva86/datasets/master/nutrition.csv -> C:\Users\HighTech\Desktop\advanced_research_portfolio\data\open_nutrition.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/selva86/datasets/master/nutrition.csv
+Open nutrition CSV failed; generating minimal synthetic public-style table.

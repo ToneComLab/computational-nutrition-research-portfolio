@@ -1,0 +1,24 @@
+{
+  "nhanes_portal": "https://wwwn.cdc.gov/nchs/nhanes/",
+  "cycles": {
+    "2017_2018": {
+      "DR1TOT": "C:\\Users\\HighTech\\Desktop\\advanced_research_portfolio\\data\\nhanes\\2017_2018\\DR1TOT.xpt",
+      "DEMO": "C:\\Users\\HighTech\\Desktop\\advanced_research_portfolio\\data\\nhanes\\2017_2018\\DEMO.xpt",
+      "BMX": "C:\\Users\\HighTech\\Desktop\\advanced_research_portfolio\\data\\nhanes\\2017_2018\\BMX.xpt",
+      "BPX": "C:\\Users\\HighTech\\Desktop\\advanced_research_portfolio\\data\\nhanes\\2017_2018\\BPX.xpt"
+    },
+    "2011_2012": {
+      "DR1TOT": "C:\\Users\\HighTech\\Desktop\\advanced_research_portfolio\\data\\nhanes\\2011_2012\\DR1TOT.xpt",
+      "DEMO": "C:\\Users\\HighTech\\Desktop\\advanced_research_portfolio\\data\\nhanes\\2011_2012\\DEMO.xpt",
+      "BMX": "C:\\Users\\HighTech\\Desktop\\advanced_research_portfolio\\data\\nhanes\\2011_2012\\BMX.xpt",
+      "BPX": "C:\\Users\\HighTech\\Desktop\\advanced_research_portfolio\\data\\nhanes\\2011_2012\\BPX.xpt"
+    }
+  },
+  "usda": "C:\\Users\\HighTech\\Desktop\\advanced_research_portfolio\\data\\usda_fdc_sample.csv",
+  "pubmed": "C:\\Users\\HighTech\\Desktop\\advanced_research_portfolio\\data\\pubmed_counts.csv",
+  "who": {
+    "NUTRITION_HA_1": 0,
+    "NUTRITION_HA_2": 0
+  },
+  "kaggle_proxy_url": "https://raw.githubusercontent.com/selva86/datasets/master/nutrition.csv"
+}
